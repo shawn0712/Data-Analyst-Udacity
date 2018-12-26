@@ -7,9 +7,10 @@ For the final project, you will conduct your own data analysis and create a file
 2. Step Two - Get Organized
    Eventually you’ll want to submit your project (and share it with friends, family, and employers). Get organized before you begin. We recommend creating a single folder that will eventually contain:
 
-    The report communicating your findings
-    Any Python code you wrote as part of your analysis
-    The data set you used (which you will not need to submit)
+     The report communicating your findings
+     Any Python code you wrote as part of your analysis
+     The data set you used (which you will not need to submit)
+     
    You may wish to use a Jupyter notebook, in which case you can submit both the code you wrote and the report of your findings in the same document. Otherwise, you will need to submit your report and code separately. If you would like a notebook template to help organize your investigation, you can click here. Or there may be a page in the project here called Project Workspace: Complete and Submit Project, where you can do all your work and submit the project.
 
 3. Step Three - Analyze Your Data
